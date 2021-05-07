@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string-array name="Category">
+        <item>Category</item>
+        <item>business</item>
+        <item>entertainment</item>
+        <item>general</item>
+        <item>health</item>
+        <item>science</item>
+        <item>sports</item>
+        <item>technology</item>
+    </string-array>
+    <string-array name="Country">
+        <item>Country</item>
+        <item>India</item>
+        <item>USA</item>
+        <item>Australia</item>
+        <item>Russia</item>
+        <item>France</item>
+        <item>United Kingdom</item>
+    </string-array>
+</resources>
